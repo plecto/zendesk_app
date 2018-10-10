@@ -1,0 +1,8 @@
+{
+  "app": {
+    "name": "Plecto DEV",
+    "short_description": "DEV app for the Plecto app",
+    "long_description": "Plecto is a business dashboard software for tracking KPIs and visualizing business data in real-time across any screen or device.",
+    "installation_instructions": "Simply click install."
+  }
+}
