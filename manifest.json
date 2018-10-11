@@ -6,7 +6,7 @@
     "url": "http://plecto.com/"
   },
   "defaultLocale": "en",
-  "private": false,
+  "private": true,
   "location": {
     "support": {
       "ticket_sidebar": "assets/iframe.html"
