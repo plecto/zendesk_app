@@ -9,10 +9,10 @@
   "private": true,
   "location": {
     "support": {
-      "ticket_sidebar": "assets/iframe.html"
+      "ticket_sidebar": "assets/support/iframe.html"
     },
     "chat": {
-      "background": "assets/iframe.html"
+      "background": "assets/chat/iframe.html"
     }
   },
   "version": "1.2",
